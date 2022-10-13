@@ -1,0 +1,12 @@
+{
+  "login": "Sign In",
+  "login_Detalis": "Login to start using app,",
+  "emial_Adress": "Email",
+  "pasword": "password",
+  "forgetPasword": "forget password? ",
+  "sign_up_hint": "Don’t have an account? ",
+  "sign_up": " Sign up",
+  "email_erorr": "enter your email",
+  "password_erorr": "enter your password",
+  "passwordEmail_erorr": "enter your email password"
+}
